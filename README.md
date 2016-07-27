@@ -1,6 +1,6 @@
-#About Project
+#About Repo
 
-This project is mainly to record write some useful algorithms in `Machine Learning`. This project is only for learn to study, without any commercial use. 
+This repository mainly writes some useful projects in `Machine Learning`. The repository is only for learn to study, without any commercial use. 
 
 I also refer to some other people's codes, thanks to the people who wrote these techniques!
 
